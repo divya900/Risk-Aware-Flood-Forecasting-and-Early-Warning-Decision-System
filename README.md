@@ -58,7 +58,6 @@ The system is modular and consists of four main components:
 * 12-month early warning alerts
 * Explainable risk drivers
 
----
 
 ## Modeling Approach
 
@@ -68,7 +67,6 @@ The system is modular and consists of four main components:
 | River Flow Forecasting    | Prophet                | Handles seasonality & trend shifts  |
 | Flood Risk Classification | LDA                    | Interpretable & probabilistic       |
 
----
 
 ## Explainability & Risk Interpretation
 
@@ -125,7 +123,6 @@ Rainfall forecasting evaluated using:
 └── requirements.txt
 ```
 
----
 
 ## Installation
 
@@ -153,7 +150,6 @@ pip install --upgrade pip setuptools wheel
 pip install -r requirements.txt
 ```
 
----
 
 ## Run the Application
 
